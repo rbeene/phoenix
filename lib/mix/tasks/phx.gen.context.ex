@@ -253,7 +253,7 @@ defmodule Mix.Tasks.Phx.Gen.Context do
       #{file_count} files in its directory.
 
         * It's OK to have multiple resources in the same context as \
-          long as they are closely related
+        long as they are closely related
         * If they are not closely related, another context probably works better
 
       If you are not sure, prefer creating a new context over adding to the existing one.
